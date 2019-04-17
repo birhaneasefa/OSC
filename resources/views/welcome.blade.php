@@ -16,7 +16,7 @@
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
-                font-weight: 100;
+                font-weight: 150;
                 height: 100vh;
                 margin: 0;
             }
@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                  <h1 style"color:green;"> this is laravel for github training</h1>
                 </div>
 
                 <div class="links">
